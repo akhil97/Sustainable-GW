@@ -62,6 +62,7 @@ How to Use This Project
 
 To run this analysis yourself, you will need to have Python and Jupyter Notebook installed. You'll also need to install the following libraries:
 
+```
 pip install pyLDAvis
 pip install nltk
 pip install pandas
@@ -70,6 +71,7 @@ pip install wordcloud
 pip install matplotlib
 pip install gensim
 pip install spacy
+```
 
 Once you have these installed, you can run the Yellowstone_wildfire_topic_modelling_gensim_LDA.ipynb notebook to see the analysis step-by-step. You will also need the apify_group_scrape.csv file in the /content/sample_data/ directory for the notebook to run correctly.
 
